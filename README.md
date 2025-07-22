@@ -16,10 +16,23 @@
 ### 💻 Tech Stack
 
 #### 🔤 Languages  
-`Python` `C++` `HTML/CSS` `JavaScript`
+`Python` `Java` `HTML/CSS` `JavaScript`
+
+## 📁 Version Control & CI/CD
+
+- `Git` / `GitHub` – Version control
+- `Jenkins` / `GitHub Actions` – CI/CD pipelines
+- `MLflow` – Model tracking & deployment
+- `DVC` – Data version control (Data Science)
+
 
 #### ⚙️ Libraries & Tools  
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `MySQL` `Git` `Jupyter` `Google Colab`
+- `NumPy` / `Pandas` – Data manipulation
+- `Matplotlib` / `Seaborn` / `Plotly` – Visualization
+- `Scikit-learn` – ML modeling
+- `TensorFlow` / `PyTorch` – Deep Learning
+- `Statsmodels` – Statistical analysis
+- `Jupyter Notebooks` – Exploratory analysis
 
 #### 🧠 Advanced Skills  
 - Artificial Intelligence & Machine Learning  
@@ -27,7 +40,7 @@
 - Computer Networking  
 - Cybersecurity Principles  
 - Backend Development  
-- Automation & Scripting  
+
 
 ---
 
