@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Tejas T P <span style="color:#ffd700;">(aka LegendTejas)</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&duration=4000&pause=800&color=0047FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+Data+Engineer;Loves+Clean+Code+%26+Smart+Systems;Building+Secure+%26+Scalable+Backends" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2800&pause=1200&color=00FFAB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineering+Enthusiast;I+learn+something+new+daily;Crafting+the+Future+with+Code" alt="Typing SVG">
 </p>
 
 ---
