@@ -18,7 +18,7 @@
 #### 🔤 Languages  
 `Python` `Java` `HTML/CSS` `JavaScript`
 
-## 📁 Version Control & CI/CD
+### 📁 Version Control & CI/CD
 
 - `Git` / `GitHub` – Version control
 - `Jenkins` / `GitHub Actions` – CI/CD pipelines
