@@ -72,65 +72,14 @@
 
 ### 🚀 Top Projects
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Projects</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f2f2f2;
-      padding: 40px;
-    }
+# My Projects
 
-    .project {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      background: #fff;
-      border-radius: 12px;
-      padding: 20px 30px;
-      margin-bottom: 20px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    }
+**SecureTalk**  
+[![Show](https://img.shields.io/badge/Show-Visit%20Project-green?style=for-the-badge)](https://github.com/LegendTejas/SecureTalk)
 
-    .project-title {
-      font-size: 22px;
-      font-weight: bold;
-    }
+**Football Match Outcome Analyzer**  
+[![Show](https://img.shields.io/badge/Show-Visit%20Project-blue?style=for-the-badge)](https://github.com/LegendTejas/FootballMatchOutcomeAnalyzer)
 
-    .show-btn {
-      background: linear-gradient(135deg, #1d976c, #93f9b9);
-      border: none;
-      color: white;
-      padding: 10px 22px;
-      font-size: 16px;
-      border-radius: 30px;
-      cursor: pointer;
-      transition: all 0.3s ease-in-out;
-    }
-
-    .show-btn:hover {
-      transform: scale(1.08);
-      background: linear-gradient(135deg, #11998e, #38ef7d);
-    }
-  </style>
-</head>
-<body>
-
-  <div class="project">
-    <div class="project-title">SecureTalk</div>
-    <button class="show-btn" onclick="window.open('https://github.com/LegendTejas/SecureTalk', '_blank')">Show</button>
-  </div>
-
-  <div class="project">
-    <div class="project-title">Football Match Outcome Analyzer</div>
-    <button class="show-btn" onclick="window.open('https://github.com/LegendTejas/FootballMatchOutcomeAnalyzer', '_blank')">Show</button>
-  </div>
-
-</body>
-</html>
 
 
 
