@@ -72,19 +72,18 @@
 
 ### 🚀 Top Projects
 
-<h3 align="center">
-  🔐 SecureTalk
+<p align="center">
+  <strong>🔐 SecureTalk</strong>
   <a href="https://github.com/LegendTejas/SecureTalk" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-blue?style=for-the-badge&logo=github" alt="View Repo"/>
+    <img src="https://img.shields.io/badge/Show-Project-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="SecureTalk Repo"/>
   </a>
-</h3>
-<br>
-<h3 align="center">
-  ⚽ Football Match Outcome Analyzer
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>⚽ Football Match Outcome Analyzer</strong>
   <a href="https://github.com/LegendTejas/FootballMatchOutcomeAnalyzer" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repo-blue?style=for-the-badge&logo=github" alt="View Repo"/>
+    <img src="https://img.shields.io/badge/Show-Project-green?style=for-the-badge&logo=github&logoColor=white" alt="FootballMatchOutcomeAnalyzer Repo"/>
   </a>
-</h3>
+</p>
+
 
 
 ---
