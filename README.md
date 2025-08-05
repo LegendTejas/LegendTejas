@@ -70,6 +70,25 @@
 
 ---
 
+### 🚀 Top Projects
+
+<h3 align="center">
+  🔐 SecureTalk
+  <a href="https://github.com/LegendTejas/SecureTalk" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-blue?style=for-the-badge&logo=github" alt="View Repo"/>
+  </a>
+</h3>
+<br>
+<h3 align="center">
+  ⚽ Football Match Outcome Analyzer
+  <a href="https://github.com/LegendTejas/FootballMatchOutcomeAnalyzer" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Repo-blue?style=for-the-badge&logo=github" alt="View Repo"/>
+  </a>
+</h3>
+
+
+---
+
 <p align="center">
   <b>© 2025 Tejas T P</b> — All Rights Reserved
 </p>
