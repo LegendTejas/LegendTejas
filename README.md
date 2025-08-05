@@ -72,12 +72,12 @@
 
 ### 🚀 My Top Projects
 
-## 🔐 SecureTalk   
+#### 🔐 SecureTalk   
 [![Show](https://img.shields.io/badge/Show-brightgreen?style=for-the-badge)](https://github.com/LegendTejas/SecureTalk)
 
 ---
 
-## ⚽ Football Match Outcome Analyzer    
+#### ⚽ Football Match Outcome Analyzer    
 [![Show](https://img.shields.io/badge/Show-brightgreen?style=for-the-badge)](https://github.com/LegendTejas/FootballMatchOutcomeAnalyzer)
 
 ---
