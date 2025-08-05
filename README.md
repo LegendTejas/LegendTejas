@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/009/887/614/original/3d-businessman-character-waving-hand-transparent-background-free-png.png" width="45" /> Hi, I'm Tejas T P
+  <img src="https://www.clipartmax.com/png/full/266-2666862_hello-hello-gif-transparent-background.png" width="45" /> Hi, I'm Tejas T P
 </h1>
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2800&pause=1200&color=00FFAB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineering+Enthusiast;I+learn+something+new+daily;Crafting+the+Future+with+Code" alt="Typing SVG">
