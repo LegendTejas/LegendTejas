@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.clipartmax.com/png/full/266-2666862_hello-hello-gif-transparent-background.png" width="45" /> Hi, I'm Tejas T P
+  <img src="[https://www.clipartmax.com/png/full/266-2666862_hello-hello-gif-transparent-background.png](https://www.clipartmax.com/middle/m2i8A0d3b1b1m2A0_hello-hello-gif-transparent-background/)" width="45" /> Hi, I'm Tejas T P
 </h1>
 
 <p align="center">
