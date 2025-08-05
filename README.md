@@ -1,4 +1,7 @@
-<h1 align="center">🚀 Hi, I'm Tejas T P <span style="color:#ffd700;"></span></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40"> Hi, I'm Tejas T P
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2800&pause=1200&color=00FFAB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineering+Enthusiast;I+learn+something+new+daily;Crafting+the+Future+with+Code" alt="Typing SVG">
