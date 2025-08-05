@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="40"> Hi, I'm Tejas T P
+  <img src="https://static.vecteezy.com/system/resources/previews/009/887/614/original/3d-businessman-character-waving-hand-transparent-background-free-png.png" width="45" /> Hi, I'm Tejas T P
 </h1>
+
 
 
 <p align="center">
