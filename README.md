@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://www.clipartmax.com/png/small/223-2237293_hello-hello-gif-transparent-background.png" width="45" alt="Waving Hello"> Hi, I'm Tejas T P
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="45" alt="Waving Hello"> Hi, I'm Tejas T P
 </h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2800&pause=1200&color=00FFAB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineering+Enthusiast;I+learn+something+new+daily;Crafting+the+Future+with+Code" alt="Typing SVG">
