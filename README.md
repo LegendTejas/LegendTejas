@@ -47,10 +47,14 @@
 
 ### 📫 Reach Me
 
-[![GitHub](https://img.shields.io/badge/-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LegendTejas)
-[![LinkedIn](https://img.shields.io/badge/-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-tp-)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TEJAS10TP)
-[![YouTube](https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@legendtejas)
+[![GitHub](https://cdn.dribbble.com/userupload/4447860/file/original-2183faf30236fdfd1552016c5162cbc2.png?resize=1504x1003&vertical=center)](https://github.com/LegendTejas)
+&nbsp;&nbsp;
+[![LinkedIn](https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-3D.png)](https://www.linkedin.com/in/tejas-tp-)
+&nbsp;&nbsp;
+[![X](https://i0.wp.com/deerfieldbeachhigh.net/wp-content/uploads/2023/09/Twitter-X-App-Icon-PNG.png?ssl=1)](https://x.com/TEJAS10TP)
+&nbsp;&nbsp;
+[![YouTube](https://w0.peakpx.com/wallpaper/334/879/HD-wallpaper-gold-youtube-gold-youtube-galaxy.jpg)](https://www.youtube.com/@legendtejas)
+
 
 ---
 
