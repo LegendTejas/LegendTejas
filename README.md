@@ -47,11 +47,10 @@
 
 ### 📫 Reach Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-LegendTejas-000?style=for-the-badge&logo=github)](https://github.com/LegendTejas)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tejas--tp--0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-tp-)  
-[![X](https://img.shields.io/badge/X-@TEJAS10TP-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TEJAS10TP)
-
-[![YouTube](https://img.shields.io/badge/YouTube-LegendTejas-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@legendtejas)
+[![GitHub](https://img.shields.io/badge/-000?style=for-the-badge&logo=github)](https://github.com/LegendTejas) **LegendTejas**  
+[![LinkedIn](https://img.shields.io/badge/-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-tp-) **tejas-tp-**  
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TEJAS10TP) **@TEJAS10TP**  
+[![YouTube](https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@legendtejas) **LegendTejas**
 
 ---
 
