@@ -47,20 +47,11 @@
 
 ### 📫 Reach Me
 
-<p align="center">
-  <a href="https://github.com/LegendTejas" target="_blank">
-    <img src="https://cdn.dribbble.com/userupload/4447860/file/original-2183faf30236fdfd1552016c5162cbc2.png?resize=1504x1003&vertical=center" alt="GitHub" width="50" height="50" style="border-radius: 50%; margin: 0 15px; border: 2px solid #ccc;" />
-  </a>
-  <a href="https://www.linkedin.com/in/tejas-tp-" target="_blank">
-    <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-3D.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 0 15px; border: 2px solid #ccc;" />
-  </a>
-  <a href="https://x.com/TEJAS10TP" target="_blank">
-    <img src="https://i0.wp.com/deerfieldbeachhigh.net/wp-content/uploads/2023/09/Twitter-X-App-Icon-PNG.png?ssl=1" alt="X" width="50" height="50" style="border-radius: 50%; margin: 0 15px; border: 2px solid #ccc;" />
-  </a>
-  <a href="https://www.youtube.com/@legendtejas" target="_blank">
-    <img src="https://cdn.pixabay.com/photo/2020/11/01/03/08/youtube-5702765_1280.jpg" alt="YouTube" width="50" height="50" style="border-radius: 50%; margin: 0 15px; border: 2px solid #ccc;" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-LegendTejas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LegendTejas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tejas--tp--0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-tp-)
+[![X](https://img.shields.io/badge/X-@TEJAS10TP-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TEJAS10TP)
+[![YouTube](https://img.shields.io/badge/YouTube-LegendTejas-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@legendtejas)
+
 
 
 ---
