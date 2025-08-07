@@ -49,18 +49,19 @@
 
 <p align="center">
   <a href="https://github.com/LegendTejas" target="_blank">
-    <img src="https://cdn.dribbble.com/userupload/4447860/file/original-2183faf30236fdfd1552016c5162cbc2.png?resize=1504x1003&vertical=center" alt="GitHub" width="50" height="50" style="border-radius: 50%; margin: 0 10px;" />
+    <img src="https://cdn.dribbble.com/userupload/4447860/file/original-2183faf30236fdfd1552016c5162cbc2.png?resize=1504x1003&vertical=center" alt="GitHub" width="50" height="50" style="border-radius: 50%; margin: 0 15px; border: 2px solid #ccc;" />
   </a>
   <a href="https://www.linkedin.com/in/tejas-tp-" target="_blank">
-    <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-3D.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 0 10px;" />
+    <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-3D.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%; margin: 0 15px; border: 2px solid #ccc;" />
   </a>
   <a href="https://x.com/TEJAS10TP" target="_blank">
-    <img src="https://i0.wp.com/deerfieldbeachhigh.net/wp-content/uploads/2023/09/Twitter-X-App-Icon-PNG.png?ssl=1" alt="X" width="50" height="50" style="border-radius: 50%; margin: 0 10px;" />
+    <img src="https://i0.wp.com/deerfieldbeachhigh.net/wp-content/uploads/2023/09/Twitter-X-App-Icon-PNG.png?ssl=1" alt="X" width="50" height="50" style="border-radius: 50%; margin: 0 15px; border: 2px solid #ccc;" />
   </a>
   <a href="https://www.youtube.com/@legendtejas" target="_blank">
-    <img src="https://w0.peakpx.com/wallpaper/334/879/HD-wallpaper-gold-youtube-gold-youtube-galaxy.jpg" alt="YouTube" width="50" height="50" style="border-radius: 50%; margin: 0 10px;" />
+    <img src="https://cdn.pixabay.com/photo/2020/11/01/03/08/youtube-5702765_1280.jpg" alt="YouTube" width="50" height="50" style="border-radius: 50%; margin: 0 15px; border: 2px solid #ccc;" />
   </a>
 </p>
+
 
 ---
 
