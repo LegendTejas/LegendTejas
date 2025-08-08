@@ -60,9 +60,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LegendTejas&show_icons=true&theme=tokyonight&hide_border=false" width="47%">
+  <img src="https://github-readme-streak-stats.vercel.app?user=LegendTejas&theme=tokyonight&hide_border=false" width="47%">
 </p>
-## 🔥 GitHub Streak
-<img src="./assets/streak.svg" width="47%">
 
 ---
 
