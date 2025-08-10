@@ -36,6 +36,11 @@
 - `Statsmodels` – Statistical analysis  
 - `Jupyter Notebooks` – Exploratory analysis
 
+#### 📊 Data Analysis & BI Tools  
+- `MS Excel` – Data cleaning, pivot tables, formulas, dashboards  
+- `Power BI` – Interactive reports & visualizations  
+- `SQL` – Database querying & management
+
 #### 🧠 Advanced Skills  
 - Artificial Intelligence & Machine Learning  
 - Data Structures & Algorithms (DSA)  
