@@ -64,9 +64,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LegendTejas&show_icons=true&theme=tokyonight&hide_border=false" width="47%" style="display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegendTejas&layout=compact&theme=radical" width="47%" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LegendTejas&show_icons=true&theme=tokyonight&hide_border=false" width="47%" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegendTejas&layout=compact&theme=radical" width="47%" style="display: inline-block; vertical-align: top; max-height: 195px;" />
 </p>
+
 
 
 ---
