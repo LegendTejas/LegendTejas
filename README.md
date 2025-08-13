@@ -65,10 +65,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LegendTejas&show_icons=true&theme=tokyonight&hide_border=false" width="47%">
-</p>
 
-### Most Used Languages
+  Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendTejas&layout=compact&theme=radical)
+</p>
 
 ---
 
