@@ -89,8 +89,8 @@
 [![Show](https://img.shields.io/badge/Show-brightgreen?style=for-the-badge)](https://github.com/LegendTejas/FootballMatchOutcomeAnalyzer)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=LegendTejas&style=flat-square)
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=LegendTejas&style=flat-square)
   <b>© 2025 Tejas T P</b> — All Rights Reserved
 </p>
