@@ -91,5 +91,6 @@
 ---
 
 <p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=LegendTejas&style=flat-square)
   <b>© 2025 Tejas T P</b> — All Rights Reserved
 </p>
