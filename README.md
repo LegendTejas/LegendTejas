@@ -2,11 +2,9 @@
   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="45" alt="Waving Hello"> Hi, I'm Tejas T P
 </h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2800&pause=1200&color=00FFAB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineering+Enthusiast;I+learn+something+new+daily;Crafting+the+Future+with+Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2800&pause=1200&color=00FFAB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineering+Enthusiast;I+learn+something+new+every+day;Welcome+to+my+GitHub+profile!" />
 </p>
-
 
 ---
 
@@ -58,14 +56,21 @@
 [![X](https://img.shields.io/badge/X-@TEJAS10TP-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TEJAS10TP)  
 [![YouTube](https://img.shields.io/badge/YouTube-LegendTejas-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@legendtejas)
 
-
 ---
-
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LegendTejas&show_icons=true&theme=tokyonight&hide_border=false" width="47%" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=LegendTejas&show_icons=true&theme=tokyonight&hide_border=false" width="400"/>
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=LegendTejas&theme=tokyonight&hide_border=false" width="400"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
