@@ -78,7 +78,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LegendTejas&theme=dracula&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LegendTejas&theme=gruvbox&margin-w=10&no-frame=true" />
 </p>
 
 ---
