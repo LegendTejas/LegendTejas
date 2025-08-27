@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2800&pause=1200&color=00FFAB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineering+Enthusiast;I+learn+something+new+every+day;Open+Source+Contributor;DSA+%7C+Python+%7C+AI+%7C+Backend+%7C+Security" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2800&pause=1200&color=00FFAB&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;AI+%26+Data+Engineering+Enthusiast;I+learn+something+new+Everyday" />
 </p>
 
 ---
