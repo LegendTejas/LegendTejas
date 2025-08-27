@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2800&pause=1200&color=00FFAB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineering+Enthusiast;I+learn+something+new+every+day;Welcome+to+my+GitHub+profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2800&pause=1200&color=00FFAB&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineering+Enthusiast;I+learn+something+new+every+day;Open+Source+Contributor;DSA+%7C+Python+%7C+AI+%7C+Backend+%7C+Security" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LegendTejas&theme=dracula&column=-1&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LegendTejas&theme=discord&column=-1&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
 </p>
 
 ---
