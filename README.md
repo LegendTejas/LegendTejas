@@ -78,7 +78,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LegendTejas&theme=discord&column=-1&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LegendTejas&theme=aura&column=-1&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
 </p>
 
 ---
