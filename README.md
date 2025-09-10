@@ -46,7 +46,7 @@
 - Cybersecurity Principles  
 - Backend Development  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendTejas&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendTejas&hide_progress=true)
 ---
 
 ### 📫 Reach Me
