@@ -18,33 +18,46 @@
 ### 💻 Tech Stack
 
 #### 🔤 Languages  
-`Python` `Java` `HTML/CSS` `JavaScript`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 #### 📁 Version Control & CI/CD  
-- `Git` / `GitHub` – Version control  
-- `Jenkins` / `GitHub Actions` – CI/CD pipelines  
-- `MLflow` – Model tracking & deployment  
-- `DVC` – Data version control (Data Science)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=iterative&logoColor=white)  
 
-#### ⚙️ Libraries & Tools  
-- `NumPy` / `Pandas` – Data manipulation  
-- `Matplotlib` / `Seaborn` / `Plotly` – Visualization  
-- `Scikit-learn` – ML modeling  
-- `TensorFlow` / `PyTorch` – Deep Learning  
-- `Statsmodels` – Statistical analysis  
-- `Jupyter Notebooks` – Exploratory analysis
+#### ⚙️ Libraries, Frameworks & Tools  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Statsmodels](https://img.shields.io/badge/Statsmodels-333333?style=for-the-badge&logo=python&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Tkinter](https://img.shields.io/badge/Tkinter-FFB400?style=for-the-badge&logo=python&logoColor=black)  
 
 #### 📊 Data Analysis & BI Tools  
-- `MS Excel` – Data cleaning, pivot tables, formulas, dashboards  
-- `Power BI` – Interactive reports & visualizations  
-- `SQL` – Database querying & management
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
 
 #### 🧠 Advanced Skills  
-- Artificial Intelligence & Machine Learning  
-- Data Structures & Algorithms (DSA)  
-- Computer Networking  
-- Cybersecurity Principles  
-- Backend Development  
+- `Artificial Intelligence & Machine Learning` 
+- `Data Structures & Algorithms (DSA)`  
+- `Computer Networking`  
+- `Cybersecurity Principles`  
+- `Backend Development`  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendTejas&hide_progress=true)
 ---
