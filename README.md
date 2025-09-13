@@ -40,12 +40,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendTejas&hide_progress=true)
 ---
 
-### 📫 Reach Me
+### 📫 Reach Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-LegendTejas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LegendTejas)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tejas--tp--0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejas-tp-)  
-[![X](https://img.shields.io/badge/X-@TEJAS10TP-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TEJAS10TP)  
-[![YouTube](https://img.shields.io/badge/YouTube-LegendTejas-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@legendtejas)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/LegendTejas)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tejas-tp-)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/TEJAS10TP)
+[![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@legendtejas)
 
 ---
 
