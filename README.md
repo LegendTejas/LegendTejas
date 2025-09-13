@@ -40,12 +40,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendTejas&hide_progress=true)
 ---
 
-### 📫 Reach Me
+### 📫 Reach Me  
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/LegendTejas)&nbsp;&nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tejas-tp-)&nbsp;&nbsp;
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/TEJAS10TP)&nbsp;&nbsp;
-[![YouTube](https://img.shields.io/static/v1?label=&message=%20&logo=youtube&style=flat-square)](https://www.youtube.com/@legendtejas)
+[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>](https://www.youtube.com/@legendtejas)
+
 
 
 ---
