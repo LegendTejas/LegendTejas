@@ -42,12 +42,10 @@
 
 ### 📫 Reach Me  
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/LegendTejas)&nbsp;&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tejas-tp-)&nbsp;&nbsp;
-[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/TEJAS10TP)&nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40"/>](https://www.youtube.com/@legendtejas)
-
-
+[<img src="https://skillicons.dev/icons?i=github" width="50"/>](https://github.com/LegendTejas)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>](https://www.linkedin.com/in/tejas-tp-)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=twitter" width="50"/>](https://x.com/TEJAS10TP)&nbsp;&nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50"/>](https://www.youtube.com/@legendtejas)
 
 ---
 
