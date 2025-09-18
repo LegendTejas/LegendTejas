@@ -49,7 +49,7 @@
 [<img src="https://skillicons.dev/icons?i=github" width="35"/>](https://github.com/LegendTejas)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=linkedin" width="35"/>](https://www.linkedin.com/in/tejas-tp-)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=twitter" width="35"/>](https://x.com/TEJAS10TP)&nbsp;&nbsp;
-[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="50"/>](https://www.youtube.com/@legendtejas)
+[<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="45"/>](https://www.youtube.com/@legendtejas)
 
 ---
 
