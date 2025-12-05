@@ -9,9 +9,10 @@
 ---
 
 ### 🚀 What I'm Up To
-- 🔐 Building secure and smart applications using Python, AI, and databases  
-- 📊 Working on encryption, data engineering, and algorithm optimization projects  
-- ☁️ Learning more about backend systems, AI frameworks, and cloud infrastructure  
+
+- 🔐 Implementing secure ETL pipelines with encryption, data integrity checks, and optimized storage
+- 🧩 Developing production-ready APIs with FastAPI, Flask, and modern database systems
+- ⚙️ Learning advanced backend patterns, system design, and high-performance architectures
 
 ---
 
@@ -25,21 +26,21 @@
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="30" />
 
 #### 📁 Version Control & CI/CD  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=iterative&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=iterative&logoColor=white)  
 
 #### ⚙️ Libraries, Frameworks & Tools  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-333333?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FFB400?style=flat-square&logo=python&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=plotly&logoColor=white)
+ ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-333333?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FFFFFF?style=flat-square&logo=python&logoColor=black)
+
 
 #### 📊 Data Analysis, BI & Databases  
-![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 
 #### 🧠 Advanced Skills  
-- `Artificial Intelligence & Machine Learning` 
-- `Data Structures & Algorithms (DSA)`  
-- `Computer Networking`  
-- `Cybersecurity Principles`  
-- `Backend Development`  
+- `Artificial Intelligence & Machine Learning`
+- `Data Structures & Algorithms (DSA)`
+- `Backend Development`
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendTejas&hide_progress=true)
 ---
