@@ -35,7 +35,7 @@
 
 
 #### 📊 Data Analysis, BI & Databases  
-![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 #### 🧠 Advanced Skills  
 - `Artificial Intelligence & Machine Learning`
