@@ -63,7 +63,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=LegendTejas&show_icons=true&theme=tokyonight&hide_border=false" width="400"/>
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=LegendTejas&theme=tokyonight&hide_border=false" width="400"/>
+        <img src="https://streak-stats.demolab.com?user=LegendTejas&theme=radical&hide_border=false" width="400" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -74,7 +74,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LegendTejas&theme=aura&column=-1&no-bg=true&no-frame=true" alt="GitHub Profile Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LegendTejas&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
