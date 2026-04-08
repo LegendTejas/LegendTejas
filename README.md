@@ -86,8 +86,8 @@
 
 ---
 
-#### ⚽ Football Match Outcome Analyzer    
-[![Show](https://img.shields.io/badge/Show-brightgreen?style=for-the-badge)](https://github.com/LegendTejas/FootballMatchOutcomeAnalyzer)
+#### 🛡️ SysCallGuardian   
+[![Show](https://img.shields.io/badge/Show-brightgreen?style=for-the-badge)](https://github.com/LegendTejas/SysCallGuardian)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=LegendTejas&style=flat-square)
