@@ -74,7 +74,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy-kannan.vercel.app/?username=LegendTejas&theme=aura&no-bg=true&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LegendTejas&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -90,6 +90,9 @@
 [![Show](https://img.shields.io/badge/Show-brightgreen?style=for-the-badge)](https://github.com/LegendTejas/SysCallGuardian)
 
 ---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LegendTejas&theme=react-dark)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=LegendTejas&style=flat-square)
 
 <p align="center">
